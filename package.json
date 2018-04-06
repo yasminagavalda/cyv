@@ -1,0 +1,20 @@
+{
+  "name": "correyvuela",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --ui tdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasminagavalda/cyv.git"
+  },
+  "author": "Yasmina Gavaldà",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-mocha": "^5.0.0",
+    "mocha": "^5.0.5"
+  }
+}
